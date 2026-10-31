@@ -263,9 +263,7 @@ export default function SellerOrdersPage() {
               <TrendingUp className="size-3.5 text-emerald-600" />
               <span>Dana Dipulihkan</span>
             </span>
-            <Badge variant="outline" className="text-[9px] font-mono border-emerald-500/30 text-emerald-700 dark:text-emerald-400">
-              Hak Bersih (90%)
-            </Badge>
+
           </div>
           <div>
             <p className="text-2xl font-black text-emerald-700 dark:text-emerald-400 tabular-nums tracking-tight">
